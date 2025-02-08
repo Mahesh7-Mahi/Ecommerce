@@ -1,0 +1,4 @@
+[2025-02-08 10:35:17.866] [restartedMain] INFO  c.c.e.EcommerceAppApplication-Started EcommerceAppApplication in 8.008 seconds (process running for 8.866)
+[2025-02-08 10:37:40.874] [restartedMain] INFO  c.c.e.EcommerceAppApplication-Started EcommerceAppApplication in 3.524 seconds (process running for 151.874)
+[2025-02-08 10:37:59.935] [main] INFO  c.c.e.EcommerceAppApplicationTests-Started EcommerceAppApplicationTests in 18.24 seconds (process running for 20.222)
+[2025-02-08 12:29:10.271] [restartedMain] INFO  c.c.e.EcommerceAppApplication-Started EcommerceAppApplication in 8.412 seconds (process running for 9.151)
