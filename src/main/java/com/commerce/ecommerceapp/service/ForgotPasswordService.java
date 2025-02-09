@@ -28,7 +28,7 @@ public class ForgotPasswordService {
 		
 		Optional<User> userOptional=userRepository.findByEmail(forgotPasswordApiData.getEmail());
 		if (userOptional.isEmpty()) {
-			throw new Exception("Your email id not registred with us, please create account");
+			throw new Exception("Your email id was not registred with us, please create account");
 		}else {
 			String passwordResetKey=UUID.randomUUID().toString();
 			User user=userOptional.get();
